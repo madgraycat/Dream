@@ -1,0 +1,25 @@
+---
+- {name: Olga, job: accountant, department: first}
+- {name: Olga, job: accountant, department: first}
+- {name: Olga, job: accountant, department: first}
+- {name: Olga, job: accountant, department: first}
+- {name: Dmitry, department: first}
+- {name: Dmitry, department: first}
+- {name: Ivan, department: first}
+- {name: Ivan, department: first}
+- {name: Roman, job: lawer, department: second, age: less 30}
+- {name: Roman, job: lawer, department: second, age: less 30}
+- {name: Roman, job: lawer, department: second, age: less 30}
+- {name: Roman, job: lawer, department: second, age: less 30}
+- {name: Maxim, job: driver, department: second, age: less 30}
+- {name: Maxim, job: driver, department: second, age: less 30}
+- {name: Olga, job: lawer, department: third}
+- {name: Ivan, job: builder, department: third}
+- {name: Nikolay, job: builder, department: third}
+- {name: Julia, job: clerk, age: more 30}
+- {name: Julia, job: clert, age: more 30}
+- {name: Julia, job: clert, age: more 30}
+- {name: Julia, job: clert, age: more 30}
+- {name: Julia, job: clerk, age: more 30}
+- {name: Igor, job: CSO, department: sixth, age: more 50}
+---
